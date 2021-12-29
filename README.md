@@ -11,7 +11,7 @@ Weather App React built using classes rather than functions.
 Download files : 
 
 ```sh
-git clone git@github.com:raythompsonwebdev/FCC-Weather-App.git
+git clone git@github.com:raythompsonwebdev/fcc-react-class-weather-app.git
 ```
 
 ## Tools
