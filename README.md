@@ -1,8 +1,8 @@
-# FCC Weather App
+# React Weather App
 
 ![Free CodeCamp Weather App](/assets/react-weather-app.png)
 
-Free Code Camp project built using React v16.8.
+Free Code Camp project built using React v16.8 CDN and Babel CDN.
 
 Weather App React built using classes rather than functions.
 
